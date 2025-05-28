@@ -1,2 +1,2 @@
 # DSA-Documentation
-This is where i started my portio when i was still taking my Data Analysis class
+This is where i started my portfolio when i was still taking my Data Analysis class
