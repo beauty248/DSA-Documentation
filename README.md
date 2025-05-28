@@ -1,6 +1,6 @@
 # DSA-Documentation
 
-This is where i started my portfolio building when taking  was still taking my Data Analysis class with the Incubator hub
+This is where i started my portfolio building when taking my Data Analysis class with the Incubator hub
 
 I have learnt quite a number of things ranging from Ms Excel to SQL and now to my Portfolio building.
 
