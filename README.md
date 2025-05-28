@@ -1,2 +1,9 @@
 # DSA-Documentation
-This is where i started my portfolio when i was still taking my Data Analysis class
+
+This is where i started my portfolio building when taking  was still taking my Data Analysis class with the Incubator hub
+
+I have learnt quite a number of things ranging from Ms Excel to SQL and now to my Portfolio building.
+
+## Project topic E commerce sale Analysis
+
+Project Overview
