@@ -7,6 +7,7 @@ I have learnt quite a number of things ranging from Ms Excel to SQL and now to m
 ## Project topic E commerce sale Analysis
 
 Project Overview
+
 ----SQL
 Select A,B,C
 WHERE A>35
