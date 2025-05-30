@@ -14,10 +14,13 @@ This Data Analysis aims to generate insight into the sales performace of the E c
 The primary sources of Data used here is Data Sale.csv and this is an open sources data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
 
 ### Tool used
-Ms Excel for Data cleaning (Download here)
-SQL Server ( For Quarrying and Analysis)
-Power BI(For creating a report)
-Ms Pwer point ( for presentation)
+- Ms Excel for Data cleaning (Download here)
+     - For Data collection
+     - For Data cleaning
+- SQL Server ( For Quarrying and Analysis)
+- Power BI(For creating a report)
+- Ms Pwer point ( for presentation)
+  
 
 
 ----SQL
