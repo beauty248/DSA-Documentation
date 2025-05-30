@@ -37,9 +37,12 @@ The primary sources of Data used here is Data Sale.csv and this is an open sourc
 -  What are the product on peak sales?
 
   ### Data Analysis
+
+  
   This is where we include score basic lines of code or queries or even score of the max expression used during your analysis.
 
+ ````  SQL
+SELECT A,B,C
+WHERE A> 45
 
-----SQL
-Select A,B,C
-WHERE A>35
+````
