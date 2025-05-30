@@ -19,10 +19,12 @@ The primary sources of Data used here is Data Sale.csv and this is an open sourc
      - For Data cleaning
           1. Data manipulation
           2. Data Manching
+             
 - SQL Server ( For Quarrying and Analysis)
 - Power BI(For creating a report)
 - Ms Pwer point ( for presentation)
-- 
+
+  
   
 
 
